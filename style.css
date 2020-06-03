@@ -39,7 +39,7 @@ body {
 }
 
 .resume .resume_left {
-	width: 280px;
+	width: 320px;
 
 	background: #055bf4;
 }
@@ -241,8 +241,8 @@ body {
 
 	position: absolute;
 	top: 40px;
-	right: -52px;
-	width: 52px;
+	right: -45px;
+	width: 45px;
 	height: 2px;
 
 	background: #0bb5f4;
