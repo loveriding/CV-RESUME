@@ -141,7 +141,7 @@ body {
 
 	height: 100%;
 
-	background: #FFF;
+	/*background: #FFF;*/
 }
 
 .resume .resume_right {
@@ -251,6 +251,19 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
 	display: none;
 }
+
+.skill_progress, .skill_per {
+	display: none;
+}
+
+.skill_list {
+	display: flex;
+	justify-content: space-around;
+}
+
+/*.resume_skills {
+	display: inline;
+}*/
 
 
 
